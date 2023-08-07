@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Produk 1",
+        "slug": "produk-1",
+        "description": "Deskripsi produk 1",
+        "price": 10.99,
+        "mainImg": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/11/13/9ae30d03-1036-482c-a89b-a9708503e9f1.jpg",
+        "categoryId": 1,
+        "mongoUserId": "64bc144e3d2c89eeb2a9c44c"
+    },
+    {
+        "name": "Produk 2",
+        "slug": "produk-2",
+        "description": "Deskripsi produk 2",
+        "price": 19.99,
+        "mainImg": "https://img.freepik.com/free-photo/isolated-opened-white-t-shirt_125540-1452.jpg",
+        "categoryId": 2,
+        "mongoUserId": "64bc144e3d2c89eeb2a9c44c"
+    },
+    {
+        "name": "Produk 3",
+        "slug": "produk-3",
+        "description": "Deskripsi produk 3",
+        "price": 14.99,
+        "mainImg": "https://us.baccarat.com/on/demandware.static/-/Sites-baccarat-europe/default/dwdf3ec8e7/clp-thumbnail-images/mini_medicis_bracelet_ambiance_02.jpg",
+        "categoryId": 3,
+        "mongoUserId": "64bc144e3d2c89eeb2a9c44c"
+    },
+    {
+        "name": "Produk 4",
+        "slug": "produk-4",
+        "description": "Deskripsi produk 4",
+        "price": 7.99,
+        "mainImg": "https://static.theblacktux.com/products/tuxedos/midnight-blue-tuxedo/2_2018_0326_TBT_Spring-Ecomm_Shot01_-183_w1_1812x1875.jpg?width=845&height=875",
+        "categoryId": 4,
+        "mongoUserId": "64bc144e3d2c89eeb2a9c44c"
+    }
+]

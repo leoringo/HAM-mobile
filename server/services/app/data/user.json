@@ -1,0 +1,37 @@
+[
+    {
+        "username": "Simanjuntak",
+        "email": "admin@mail.com",
+        "password": "admin",
+        "phoneNumber": "081234567890",
+        "address": "Jl. Contoh No. 1, Kota A"
+    },
+    {
+        "username": "Siregar",
+        "email": "siregar@example.com",
+        "password": "p@ssw0rd2",
+        "phoneNumber": "082345678901",
+        "address": "Jl. Contoh No. 2, Kota B"
+    },
+    {
+        "username": "Manurung",
+        "email": "manurung@example.com",
+        "password": "p@ssw0rd3",
+        "phoneNumber": "083456789012",
+        "address": "Jl. Contoh No. 3, Kota C"
+    },
+    {
+        "username": "Hutagalung",
+        "email": "hutagalung@example.com",
+        "password": "p@ssw0rd4",
+        "phoneNumber": "084567890123",
+        "address": "Jl. Contoh No. 4, Kota D"
+    },
+    {
+        "username": "Sundari",
+        "email": "sundari@example.com",
+        "password": "p@ssw0rd5",
+        "phoneNumber": "085678901234",
+        "address": "Jl. Contoh No. 5, Kota E"
+    }
+]

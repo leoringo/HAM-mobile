@@ -1,0 +1,161 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Produk 1",
+      "slug": "produk-1",
+      "description": "Deskripsi produk 1",
+      "price": 10.99,
+      "mainImg": "https://media.discordapp.net/stickers/862710978364964915.png?size=160&name=Pepehands",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2023-07-01",
+      "updatedAt": "2023-07-05"
+    },
+    {
+      "id": 2,
+      "name": "Produk 2",
+      "slug": "produk-2",
+      "description": "Deskripsi produk 2",
+      "price": 19.99,
+      "mainImg": "https://media.discordapp.net/stickers/862710978364964915.png?size=160&name=Pepehands",
+      "categoryId": 1,
+      "authorId": 2,
+      "createdAt": "2023-07-02",
+      "updatedAt": "2023-07-06"
+    },
+    {
+      "id": 3,
+      "name": "Produk 3",
+      "slug": "produk-3",
+      "description": "Deskripsi produk 3",
+      "price": 14.99,
+      "mainImg": "https://media.discordapp.net/stickers/862710978364964915.png?size=160&name=Pepehands",
+      "categoryId": 2,
+      "authorId": 1,
+      "createdAt": "2023-07-03",
+      "updatedAt": "2023-07-07"
+    },
+    {
+      "id": 4,
+      "name": "Produk 4",
+      "slug": "produk-4",
+      "description": "Deskripsi produk 4",
+      "price": 7.99,
+      "mainImg": "https://media.discordapp.net/stickers/862710978364964915.png?size=160&name=Pepehands",
+      "categoryId": 2,
+      "authorId": 2,
+      "createdAt": "2023-07-04",
+      "updatedAt": "2023-07-08"
+    },
+    {
+      "id": 5,
+      "name": "Rush B",
+      "slug": "b-forever",
+      "description": "B forever p90",
+      "price": "17.80",
+      "mainImg": "example",
+      "categoryId": 1,
+      "authorId": 2
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Books"
+    },
+    {
+      "id": 4,
+      "name": "Home Decor"
+    },
+    {
+      "id": 5,
+      "name": "Sports"
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "username": "Simanjuntak",
+      "email": "simanjuntak@example.com",
+      "password": "p@ssw0rd1",
+      "role": "user",
+      "phoneNumber": "081234567890",
+      "address": "Jl. Contoh No. 1, Kota A"
+    },
+    {
+      "id": 2,
+      "username": "Siregar",
+      "email": "siregar@example.com",
+      "password": "p@ssw0rd2",
+      "role": "admin",
+      "phoneNumber": "082345678901",
+      "address": "Jl. Contoh No. 2, Kota B"
+    },
+    {
+      "id": 3,
+      "username": "Manurung",
+      "email": "manurung@example.com",
+      "password": "p@ssw0rd3",
+      "role": "user",
+      "phoneNumber": "083456789012",
+      "address": "Jl. Contoh No. 3, Kota C"
+    },
+    {
+      "id": 4,
+      "username": "Hutagalung",
+      "email": "hutagalung@example.com",
+      "password": "p@ssw0rd4",
+      "role": "user",
+      "phoneNumber": "084567890123",
+      "address": "Jl. Contoh No. 4, Kota D"
+    },
+    {
+      "id": 5,
+      "username": "Sundari",
+      "email": "sundari@example.com",
+      "password": "p@ssw0rd5",
+      "role": "admin",
+      "phoneNumber": "085678901234",
+      "address": "Jl. Contoh No. 5, Kota E"
+    }
+  ],
+  "Images": [
+    {
+      "id": 1,
+      "productId": 1,
+      "imgUrl": "https://example.com/product1.jpg",
+      "createdAt": "2023-07-12T10:30:00Z",
+      "updatedAt": "2023-07-12T15:45:00Z"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "imgUrl": "https://example.com/product2.jpg",
+      "createdAt": "2023-07-11T14:20:00Z",
+      "updatedAt": "2023-07-12T09:15:00Z"
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "imgUrl": "https://example.com/product3.jpg",
+      "createdAt": "2023-07-10T16:55:00Z",
+      "updatedAt": "2023-07-11T08:30:00Z"
+    },
+    {
+      "id": 4,
+      "productId": 4,
+      "imgUrl": "https://example.com/product4.jpg",
+      "createdAt": "2023-07-09T09:40:00Z",
+      "updatedAt": "2023-07-10T11:20:00Z"
+    }
+  ]
+}

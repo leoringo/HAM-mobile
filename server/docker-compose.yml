@@ -1,0 +1,21 @@
+version: "1.0"
+
+services:
+    orchestrator:
+        build: ./Orchestrator
+        ports:
+            - "80:80"
+        env_file:
+            - ./Orchestrator/.env
+    app-service:
+        build: ./services/app
+        ports:
+            - "4002:4002"
+        env_file:
+            - ./services/app/.env
+    users-service:
+        build: ./services/users
+        ports:
+            - "4001:4001"
+        env_file:
+            - ./services/users/.env

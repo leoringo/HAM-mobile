@@ -1,0 +1,2 @@
+Manifest: https://exp.host/@amoreringo/client-mobile/index.exp?sdkVersion=48.0.0
+Project page: https://expo.dev/@amoreringo/client-mobile?serviceType=classic&distribution=expo-go
